@@ -1,0 +1,24 @@
+{
+    "Mahasiswa": {
+        "NIM": "488156654",
+        "Nama": "Yanuar",
+        "Angkatan": 2018,
+        "Kelas": "A",
+        "Matakuliah": [
+            {
+                "1": {
+                    "kode": 44351,
+                    "nama": "Pemrograman Integratif",
+                    "sks": 4
+                }
+            },
+            {
+                "2": {
+                    "kode": 5526,
+                    "nama": "Data Warehouse",
+                    "sks": 3
+                }
+            }
+        ]
+    }
+}
